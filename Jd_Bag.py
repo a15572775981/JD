@@ -7,7 +7,7 @@ from lxml import etree
 from urllib.parse import quote
 
 
-KEYWORD = '包'
+KEYWORD = 'bag'
 
 
 chrome_options = webdriver.ChromeOptions()
